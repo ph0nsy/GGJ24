@@ -25,8 +25,10 @@ public class PerseguirJugador : MonoBehaviour
 
     void CheckCollisions()
     {
+        //Use the OverlapBox to detect if there are any other colliders within this box area.
+        //Use the GameObject's centre, half the size (as a radius) and rotation. This creates an invisible box around your GameObject.
         Collider[] hitColliders = Physics.OverlapBox(gameObject.transform.position + transform.forward * fov_distance*3/4, new Vector3(1.25f,0.2f,1.5f)*fov_distance/2f, transform.rotation, LayerMask.GetMask("Player"));
-        int i = 0;
+        
         //Check when there is a new collider coming into contact with the box
         if(hitColliders.Length > 0){
             RaycastHit hit;
@@ -37,12 +39,9 @@ public class PerseguirJugador : MonoBehaviour
                 transform.LookAt(jugador.position);
             }
         } else {
-            Debug.Log("Hola");
-            //Use the OverlapBox to detect if there are any other colliders within this box area.
-            //Use the GameObject's centre, half the size (as a radius) and rotation. This creates an invisible box around your GameObject.
-            // Scan
-            //hitColliders = Physics.OverlapBox(gameObject.transform.position + transform.forward * fov_distance*3/4, new Vector3(1.25f,0.2f,1.5f)*fov_distance/2f, Quaternion.Euler(transform.eulerAngles.x, transform.eulerAngles.y + 90f * Time.deltaTime,transform.eulerAngles.z), LayerMask.GetMask("Player"));
 
+            // Scan
+        
         }
     }
 

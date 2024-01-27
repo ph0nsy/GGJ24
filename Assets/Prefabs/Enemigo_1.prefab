@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 4669871927498213382}
   - component: {fileID: 258933240413242200}
   m_Layer: 0
-  m_Name: Pedro Sanchez
+  m_Name: Enemigo_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
