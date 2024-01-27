@@ -1,0 +1,2656 @@
+fileFormatVersion: 2
+guid: 09ff69131f2306340bfae28fe4a41a59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4589469593421798967
+    second: damageHit_0
+  - first:
+      213: -2346760230894313096
+    second: damageHit_1
+  - first:
+      213: 3860050982942927332
+    second: damageHit_2
+  - first:
+      213: -641271645130981404
+    second: damageHit_3
+  - first:
+      213: -425955056988575284
+    second: damageHit_4
+  - first:
+      213: -9043458789351544270
+    second: damageHit_5
+  - first:
+      213: 556926731662819324
+    second: damageHit_6
+  - first:
+      213: 7695069599270486242
+    second: damageHit_7
+  - first:
+      213: -2325044112638864155
+    second: damageHit_8
+  - first:
+      213: 5741466720882454436
+    second: damageHit_9
+  - first:
+      213: 280058194092674218
+    second: damageHit_10
+  - first:
+      213: 438350261282856882
+    second: damageHit_11
+  - first:
+      213: 2496752107994313784
+    second: damageHit_12
+  - first:
+      213: 2862718147678836113
+    second: damageHit_13
+  - first:
+      213: 6777830198103180599
+    second: damageHit_14
+  - first:
+      213: -315840020969265312
+    second: damageHit_15
+  - first:
+      213: 569509278095766490
+    second: damageHit_16
+  - first:
+      213: -637978015553958201
+    second: damageHit_17
+  - first:
+      213: -7636300307474912876
+    second: damageHit_18
+  - first:
+      213: 7396400153126765708
+    second: damageHit_19
+  - first:
+      213: 4682131810275826817
+    second: damageHit_20
+  - first:
+      213: -1404937819463213681
+    second: damageHit_21
+  - first:
+      213: 5829306260135355638
+    second: damageHit_22
+  - first:
+      213: -4934358755395685185
+    second: damageHit_23
+  - first:
+      213: 4496407544445296095
+    second: damageHit_24
+  - first:
+      213: -8441162407044397534
+    second: damageHit_25
+  - first:
+      213: 1588881041882016379
+    second: damageHit_26
+  - first:
+      213: -2357141344808046019
+    second: damageHit_27
+  - first:
+      213: 1454175356345100880
+    second: damageHit_28
+  - first:
+      213: 8489668394646477989
+    second: damageHit_29
+  - first:
+      213: 4350393066559000680
+    second: damageHit_30
+  - first:
+      213: -7348379769037672362
+    second: damageHit_31
+  - first:
+      213: -3527355371218050646
+    second: damageHit_32
+  - first:
+      213: -4714137562353454554
+    second: damageHit_33
+  - first:
+      213: -1595857695023429817
+    second: damageHit_34
+  - first:
+      213: -6463303035620890331
+    second: damageHit_35
+  - first:
+      213: 4685230160787260220
+    second: damageHit_36
+  - first:
+      213: -4498819330871722205
+    second: damageHit_37
+  - first:
+      213: 8225184897659813905
+    second: damageHit_38
+  - first:
+      213: -3771273025154254299
+    second: damageHit_39
+  - first:
+      213: 2265501355525669364
+    second: damageHit_40
+  - first:
+      213: 7868091911158006143
+    second: damageHit_41
+  - first:
+      213: -8567272009113855913
+    second: damageHit_42
+  - first:
+      213: -8847776065781190080
+    second: damageHit_43
+  - first:
+      213: 6989293756022117029
+    second: damageHit_44
+  - first:
+      213: -2035016816692323347
+    second: damageHit_45
+  - first:
+      213: -4653137089992633719
+    second: damageHit_46
+  - first:
+      213: -3206601624545791067
+    second: damageHit_47
+  - first:
+      213: 2763493486590532748
+    second: damageHit_48
+  - first:
+      213: 8202758435790162361
+    second: damageHit_49
+  - first:
+      213: 2024480325198216983
+    second: damageHit_50
+  - first:
+      213: -7841499542675580358
+    second: damageHit_51
+  - first:
+      213: -4563207806229847664
+    second: damageHit_52
+  - first:
+      213: -102663883703277420
+    second: damageHit_53
+  - first:
+      213: 4854614268811352010
+    second: damageHit_54
+  - first:
+      213: 8289690248282284572
+    second: damageHit_55
+  - first:
+      213: 9039512504491846992
+    second: damageHit_56
+  - first:
+      213: -7240353324644153317
+    second: damageHit_57
+  - first:
+      213: 2226877426119226272
+    second: damageHit_58
+  - first:
+      213: -1781170187428712817
+    second: damageHit_59
+  - first:
+      213: -3746711520312643867
+    second: damageHit_60
+  - first:
+      213: 3131632948386762388
+    second: damageHit_61
+  - first:
+      213: 4938081849918442612
+    second: damageHit_62
+  - first:
+      213: 4475795981394357818
+    second: damageHit_63
+  - first:
+      213: 7772606706417524301
+    second: damageHit_64
+  - first:
+      213: 4223145115540981057
+    second: damageHit_65
+  - first:
+      213: 897586489511044039
+    second: damageHit_66
+  - first:
+      213: -5890555082933852163
+    second: damageHit_67
+  - first:
+      213: -4455395387502460118
+    second: damageHit_68
+  - first:
+      213: -8087682230265085202
+    second: damageHit_69
+  - first:
+      213: 6582511748170261244
+    second: damageHit_70
+  - first:
+      213: -4885322486670335230
+    second: damageHit_71
+  - first:
+      213: -8969100870536181875
+    second: damageHit_72
+  - first:
+      213: 7670096709581786643
+    second: damageHit_73
+  - first:
+      213: 7525689469663213234
+    second: damageHit_74
+  - first:
+      213: 1980676064965729036
+    second: damageHit_75
+  - first:
+      213: -2031712619858064898
+    second: damageHit_76
+  - first:
+      213: 4061137512067509145
+    second: damageHit_77
+  - first:
+      213: -2561453987633407405
+    second: damageHit_78
+  - first:
+      213: 4529794995596733034
+    second: damageHit_79
+  - first:
+      213: -3376189402957449719
+    second: damageHit_80
+  - first:
+      213: 104129127201721514
+    second: damageHit_81
+  - first:
+      213: -5028844128839983652
+    second: damageHit_82
+  - first:
+      213: -6280430756484761026
+    second: damageHit_83
+  - first:
+      213: -8452188488016828377
+    second: damageHit_84
+  - first:
+      213: 410091033573502615
+    second: damageHit_85
+  - first:
+      213: -7377410885324758916
+    second: damageHit_86
+  - first:
+      213: -8133575139257450894
+    second: damageHit_87
+  - first:
+      213: 7824433773519257707
+    second: damageHit_88
+  - first:
+      213: 1144979194096853827
+    second: damageHit_89
+  - first:
+      213: 3544654360905201857
+    second: damageHit_90
+  - first:
+      213: 148430061309903750
+    second: damageHit_91
+  - first:
+      213: -1992161251736884
+    second: damageHit_92
+  - first:
+      213: -7516567320218329376
+    second: damageHit_93
+  - first:
+      213: 6648397177533723488
+    second: damageHit_94
+  - first:
+      213: 3644469118844678562
+    second: damageHit_95
+  - first:
+      213: -2023489342772863643
+    second: damageHit_96
+  - first:
+      213: -702050570720298337
+    second: damageHit_97
+  - first:
+      213: -6671531116901360025
+    second: damageHit_98
+  - first:
+      213: -9172353682659175918
+    second: damageHit_99
+  - first:
+      213: -2500423521880105694
+    second: damageHit_100
+  - first:
+      213: 8585176879941730843
+    second: damageHit_101
+  - first:
+      213: -7955896086036745822
+    second: damageHit_102
+  - first:
+      213: -4567714745899668120
+    second: damageHit_103
+  - first:
+      213: -3154097639744138318
+    second: damageHit_104
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damageHit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c123a888bdee40c0800000000000000
+      internalID: -4589469593421798967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 294
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871e780f002ae6fd0800000000000000
+      internalID: -2346760230894313096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 291
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9e535eae7a19530800000000000000
+      internalID: 3860050982942927332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 293
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efff6b16deb917f0800000000000000
+      internalID: -641271645130981404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 304
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc92ae9e124b61af0800000000000000
+      internalID: -425955056988575284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 286
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a21d7352e2f7280800000000000000
+      internalID: -9043458789351544270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 282
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff7ea669e99ab700800000000000000
+      internalID: 556926731662819324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 287
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0cc62c7016aca60800000000000000
+      internalID: 7695069599270486242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 273
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e41c0bb2b8cbbfd0800000000000000
+      internalID: -2325044112638864155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 275
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afece32099cdaf40800000000000000
+      internalID: 5741466720882454436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacc4579177f2e300800000000000000
+      internalID: 280058194092674218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 278
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfd6fa7d35551600800000000000000
+      internalID: 438350261282856882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 279
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834753950de36a220800000000000000
+      internalID: 2496752107994313784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 286
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195167cecfa6ab720800000000000000
+      internalID: 2862718147678836113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 288
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7350bd997a0bf0e50800000000000000
+      internalID: 6777830198103180599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 277
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0676640ac29ed9bf0800000000000000
+      internalID: -315840020969265312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ff29cbad47e700800000000000000
+      internalID: 569509278095766490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 272
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cec56000627527f0800000000000000
+      internalID: -637978015553958201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 267
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49960c64459660690800000000000000
+      internalID: -7636300307474912876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8404cf50ca45a660800000000000000
+      internalID: 7396400153126765708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c1c0f03164af040800000000000000
+      internalID: 4682131810275826817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 264
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d12633f78a08ce0800000000000000
+      internalID: -1404937819463213681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 249
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4245a982bd5e050800000000000000
+      internalID: 5829306260135355638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 269
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb43d46fad2a58bb0800000000000000
+      internalID: -4934358755395685185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 257
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd5c04b6d2766e30800000000000000
+      internalID: 4496407544445296095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 254
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226ccb49387fada80800000000000000
+      internalID: -8441162407044397534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 251
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aeabba3e6dc0610800000000000000
+      internalID: 1588881041882016379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 262
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3274518f60c94fd0800000000000000
+      internalID: -2357141344808046019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 249
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aa31438c44e2410800000000000000
+      internalID: 1454175356345100880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 237
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac93cbbc6c51d570800000000000000
+      internalID: 8489668394646477989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8605295d173bf5c30800000000000000
+      internalID: 4350393066559000680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 237
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650b7df888f450a90800000000000000
+      internalID: -7348379769037672362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 206
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa16bf58af05c0fc0800000000000000
+      internalID: -3527355371218050646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 235
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622b8951dd4049eb0800000000000000
+      internalID: -4714137562353454554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 205
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7470e00b1ef5ad9e0800000000000000
+      internalID: -1595857695023429817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 231
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529ec16122cbd46a0800000000000000
+      internalID: -6463303035620890331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 214
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33cba00208450140800000000000000
+      internalID: 4685230160787260220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ffab287abf091c0800000000000000
+      internalID: -4498819330871722205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 221
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110cbe4e51ab52270800000000000000
+      internalID: 8225184897659813905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52afaa82a2fb9abc0800000000000000
+      internalID: -3771273025154254299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 231
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1064eca7da07f10800000000000000
+      internalID: 2265501355525669364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 222
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7182b008e3113d60800000000000000
+      internalID: 7868091911158006143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_42
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 225
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581f92cf7fea1980800000000000000
+      internalID: -8567272009113855913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 216
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042b8e2bb82663580800000000000000
+      internalID: -8847776065781190080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 213
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2dd86e3a5fef060800000000000000
+      internalID: 6989293756022117029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 201
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb9b19bcfa22c3e0800000000000000
+      internalID: -2035016816692323347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9825bc3587cbc6fb0800000000000000
+      internalID: -4653137089992633719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 188
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3f1c0dfccdf73d0800000000000000
+      internalID: -3206601624545791067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_48
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c95573fa6e95620800000000000000
+      internalID: 2763493486590532748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b98c97565d06d170800000000000000
+      internalID: 8202758435790162361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ff43e2126681c10800000000000000
+      internalID: 2024480325198216983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 190
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a1f6446b56d2390800000000000000
+      internalID: -7841499542675580358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 180
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09161695daa3ca0c0800000000000000
+      internalID: -4563207806229847664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 179
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498aa90edb3439ef0800000000000000
+      internalID: -102663883703277420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 183
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac71b06e4fd0f5340800000000000000
+      internalID: 4854614268811352010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_55
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 185
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12a2e23c55ea0370800000000000000
+      internalID: 8289690248282284572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 138
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d20fcbabcc27d70800000000000000
+      internalID: 9039512504491846992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 154
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1844442309158b90800000000000000
+      internalID: -7240353324644153317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_58
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 164
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a33c26783577ee10800000000000000
+      internalID: 2226877426119226272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eabcdc6230847e0800000000000000
+      internalID: -1781170187428712817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea6e329b1010cc0800000000000000
+      internalID: -3746711520312643867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_61
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 173
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e808f039bc57b20800000000000000
+      internalID: 3131632948386762388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c41388747978440800000000000000
+      internalID: 4938081849918442612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 121
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ea1263bb83d1e30800000000000000
+      internalID: 4475795981394357818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_64
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 155
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ed5d25e98dddb60800000000000000
+      internalID: 7772606706417524301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1450fbe7b10ab9a30800000000000000
+      internalID: 4223145115540981057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_66
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3ee76182ed47c00800000000000000
+      internalID: 897586489511044039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_67
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 141
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df72bdf8c5b804ea0800000000000000
+      internalID: -5890555082933852163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_68
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 157
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23800230814b22c0800000000000000
+      internalID: -4455395387502460118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 124
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee28fc8acd7c2cf80800000000000000
+      internalID: -8087682230265085202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_70
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 138
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2268f2f87c95b50800000000000000
+      internalID: 6582511748170261244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_71
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 146
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20369c8f419d33cb0800000000000000
+      internalID: -4885322486670335230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_72
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d874b01574a578380800000000000000
+      internalID: -8969100870536181875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 119
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ec387c158a17a60800000000000000
+      internalID: 7670096709581786643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_74
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 133
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b67c2923be907860800000000000000
+      internalID: 7525689469663213234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_75
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 95
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b96631366cc7b10800000000000000
+      internalID: 1980676064965729036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 105
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef98eaff228edc3e0800000000000000
+      internalID: -2031712619858064898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b2cc6ec0f0c5830800000000000000
+      internalID: 4061137512067509145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_78
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a5a9e5b23e37cd0800000000000000
+      internalID: -2561453987633407405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 116
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aa2e17c801dde30800000000000000
+      internalID: 4529794995596733034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 87
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906784630ad5521d0800000000000000
+      internalID: -3376189402957449719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 103
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac41a5b3e0f17100800000000000000
+      internalID: 104129127201721514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_82
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 118
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd1fa5a8e4f53ab0800000000000000
+      internalID: -5028844128839983652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_83
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 93
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ab94b808d67d8a0800000000000000
+      internalID: -6280430756484761026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_84
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 74
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7286c1d0a5bc3ba80800000000000000
+      internalID: -8452188488016828377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 86
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea8bd4f9fe0b500800000000000000
+      internalID: 410091033573502615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_86
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702e1213eb2e9990800000000000000
+      internalID: -7377410885324758916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_87
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 84
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e7c9e118cbf1f80800000000000000
+      internalID: -8133575139257450894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_88
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 78
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b604f27bf09f59c60800000000000000
+      internalID: 7824433773519257707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_89
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3432b5bb288c3ef00800000000000000
+      internalID: 1144979194096853827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_90
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 71
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c83b416c54213130800000000000000
+      internalID: 3544654360905201857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_91
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 54
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683cd56ba545f0200800000000000000
+      internalID: 148430061309903750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_92
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc24140d32ce8fff0800000000000000
+      internalID: -1992161251736884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_93
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 54
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee9314c8d9cfa790800000000000000
+      internalID: -7516567320218329376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0637b9c120ad34c50800000000000000
+      internalID: 6648397177533723488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_95
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a13e97ba51c39230800000000000000
+      internalID: 3644469118844678562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_96
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d1c35e92f1be3e0800000000000000
+      internalID: -2023489342772863643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_97
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 37
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a3bddb9b0d146f0800000000000000
+      internalID: -702050570720298337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_98
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e1125ebc5f963a0800000000000000
+      internalID: -6671531116901360025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_99
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 21
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2129ade3ce045b080800000000000000
+      internalID: -9172353682659175918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_100
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d1e4efd06bc4dd0800000000000000
+      internalID: -2500423521880105694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_101
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12c2d6d2eca42770800000000000000
+      internalID: 8585176879941730843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_102
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 26
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1fbd179aaf69190800000000000000
+      internalID: -7955896086036745822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_103
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d265fa3a73c90c0800000000000000
+      internalID: -4567714745899668120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageHit_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3172468e46a34d0800000000000000
+      internalID: -3154097639744138318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
