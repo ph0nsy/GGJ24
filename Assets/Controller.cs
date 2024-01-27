@@ -19,6 +19,7 @@ public class Controller : MonoBehaviour
     [Range(1, 50)] public float movementSpeed = 10f;
     [Range(1, 20)] public float jumpHeight = 10f;
     [Range(0, -50)] public float gravityForce = -10f;
+    public float vida = 3;
 
     // Start is called before the first frame update
     void Start()
