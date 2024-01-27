@@ -32,7 +32,6 @@ public class patrol : StateMachineBehaviour
     {
         UnityEngine.AI.NavMeshAgent agent = animator.GetComponent<UnityEngine.AI.NavMeshAgent>();
         Vector3 target = new Vector3();
-        int rnd;
         if(start) {
             target = patrol_point_s[2].transform.position;
             agent.SetDestination(target);
@@ -40,15 +39,9 @@ public class patrol : StateMachineBehaviour
         }         
         
         if(agent.remainingDistance < agent.stoppingDistance) {
-            rnd = (Random.Range (0, patrol_point_s.Count));
-            Debug.Log("GameObject has reached the destination!, num = " + rnd.ToString());
-            Debug.Log(patrol_point_s[rnd]);
-            target = patrol_point_s[rnd].transform.position;
+            target = patrol_point_s[ (Random.Range (0, patrol_point_s.Count))].transform.position;
             agent.SetDestination(target);
         }
-
-
-
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
