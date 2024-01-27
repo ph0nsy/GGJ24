@@ -10,6 +10,7 @@ public class patrol : StateMachineBehaviour
     List<GameObject> patrol_point_s = new List<GameObject>();
     bool start = true;
    
+    // miau
     //OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
