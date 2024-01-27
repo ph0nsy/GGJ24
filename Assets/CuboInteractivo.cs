@@ -9,18 +9,21 @@ public class CuboInteractivo : MonoBehaviour
     public float var = 0;
     public float incrementoVar = 10f;
     public GameObject texto;
-    private float tiempoInicial = 10f; // Tiempo inicial de espera antes de permitir la interacción.
-    private bool puedeInteractuar = false;
-
-    void Start()
-    {
-        // Iniciar la cuenta atrás de espera.
-        Invoke("PermitirInteraccion", tiempoInicial);
-    }
 
     void Update()
     {
-        if (Vector3.Distance(transform.position, jugador.transform.position) < distanciaInteraccion && puedeInteractuar)
+        // Obtén el vector de dirección del jugador hacia el cubo.
+        Vector3 direccionJugadorAlCubo = transform.position - jugador.transform.position;
+        direccionJugadorAlCubo.Normalize();
+
+        // Obtén la dirección hacia donde está mirando el jugador.
+        Vector3 direccionMiradaJugador = jugador.transform.forward;
+
+        // Calcula el producto punto entre las dos direcciones.
+        float productoPunto = Vector3.Dot(direccionJugadorAlCubo, direccionMiradaJugador);
+
+        // Comprueba si el jugador está mirando al cubo y está dentro de la distancia de interacción.
+        if (productoPunto > 0 && Vector3.Distance(transform.position, jugador.transform.position) < distanciaInteraccion)
         {
             texto.SetActive(true);
 
@@ -46,11 +49,5 @@ public class CuboInteractivo : MonoBehaviour
         {
             texto.SetActive(false);
         }
-    }
-
-    void PermitirInteraccion()
-    {
-        // Habilitar la interacción después del tiempo de espera.
-        puedeInteractuar = true;
     }
 }
