@@ -85,13 +85,13 @@ public class PerseguirJugador : MonoBehaviour
         if(!animator.GetCurrentAnimatorStateInfo(0).IsName("Attack")){
             //Use the OverlapBox to detect if there are any other colliders within this box area.
             //Use the GameObject's centre, half the size (as a radius) and rotation. This creates an invisible box around your GameObject.
-            Collider[] hitColliders = Physics.OverlapBox(gameObject.transform.position + transform.forward * fov_distance*3/4, new Vector3(1.25f,0.2f,1.5f)*fov_distance/2f, transform.rotation, LayerMask.GetMask("Player"));
+            Collider[] hitColliders = Physics.OverlapBox(gameObject.transform.position + transform.forward * fov_distance*3/4, new Vector3(1.25f,1f,1.5f)*fov_distance/2f, transform.rotation, LayerMask.GetMask("Player"));
             
             //Check when there is a new collider coming into contact with the box
             if(hitColliders.Length > 0){
                 RaycastHit hit;
                 // Does the ray intersect any objects excluding the player layer
-                if (Physics.Raycast(transform.position, transform.forward, out hit, (transform.position-jugador.position).magnitude, LayerMask.GetMask("Player"))){
+                if (Physics.Raycast(new Vector3(transform.position.x, transform.position.y + 1f, transform.position.z), transform.forward, out hit, (transform.position-jugador.position).magnitude, LayerMask.GetMask("Player"))){
                     // Configurar el destino del agente para que persiga al jugador.
                     agent.SetDestination(jugador.position);
                     transform.LookAt(new Vector3(jugador.position.x, jugador.position.y-transform.position.y, jugador.position.z));
@@ -146,7 +146,7 @@ public class PerseguirJugador : MonoBehaviour
         //Check that it is being run in Play Mode, so it doesn't try to draw this in Editor mode
         if (true)
             //Draw a cube where the OverlapBox is (positioned where your GameObject is as well as a size)
-            Gizmos.DrawWireCube(gameObject.transform.position + transform.forward * fov_distance*3/4, new Vector3(1.25f,0.2f,1.5f)*fov_distance);
+            Gizmos.DrawWireCube(gameObject.transform.position + transform.forward * fov_distance*3/4, new Vector3(1.25f,1f,1.5f)*fov_distance);
     }
 
 }
