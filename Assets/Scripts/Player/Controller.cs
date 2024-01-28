@@ -178,4 +178,12 @@ public class Controller : MonoBehaviour
     void WinTest(){
         this.win = true;
     }
+
+    // Start is called before the first frame update
+    void OnControllerColliderHit(ControllerColliderHit hit) {
+        if(hit.gameObject.layer == LayerMask.GetMask("End")){
+            this.win = true;
+        }
+    }
+
 }

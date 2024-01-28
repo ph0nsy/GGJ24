@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Puerta : MonoBehaviour
 {
-    public GameObject generadorAsociado;
+    public GameObject llave;
+    public GameObject ENDGAME;
     public AudioClip sound;
     AudioSource audioSource;
 
@@ -17,9 +18,9 @@ public class Puerta : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(generadorAsociado.GetComponent<CuboInteractivo>().var >= 100){
+        if(!llave.gameObject.activeSelf){
             gameObject.SetActive(false);
-            audioSource.PlayOneShot(sound);
+            ENDGAME.gameObject.SetActive(true);
         }
     }
 }

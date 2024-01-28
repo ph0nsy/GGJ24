@@ -41,7 +41,7 @@ public class Nota : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.E))
             {
                 NotasController controller = transform.parent.GetComponent<NotasController>();
-                
+
                 if(childCanvas.GetChild(0).gameObject.activeSelf){
                     gameObject.SetActive(false);
                     controller.sprites.RemoveAt(0);
@@ -65,11 +65,12 @@ public class Nota : MonoBehaviour
 
     // Movimiento
     void FixedUpdate(){
+        /*
         if(i<1f)
             i += Time.deltaTime;
         else
             i = 0f;
         childSprite.LookAt(player.position);
-        childSprite.transform.Translate(Vector3.up * rangoMovimiento * Mathf.Sin(2 * Mathf.PI * i));
+        childSprite.transform.Translate(Vector3.up * rangoMovimiento * Mathf.Sin(2 * Mathf.PI * i));*/
     }
 }
