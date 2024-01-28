@@ -2083,7 +2083,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8175607493130108214, guid: f82d8b7caa6a3d54d98a5d31200f7d13, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.5
+      value: 1.11
       objectReference: {fileID: 0}
     - target: {fileID: 8175607493130108214, guid: f82d8b7caa6a3d54d98a5d31200f7d13, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4836,32 +4836,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1796533354}
   m_SourcePrefab: {fileID: 100100000, guid: 752e39c1af59609408c314c8cb0cab42, type: 3}
---- !u!1 &624187180 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2625983495686070911, guid: 4da080d1402aa3948b4223008955c434, type: 3}
-  m_PrefabInstance: {fileID: 1224104677}
-  m_PrefabAsset: {fileID: 0}
---- !u!65 &624187182
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 624187180}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &627456328
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5672,7 +5646,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 10.81
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -5725,7 +5699,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1.5
+      scalar: 0.96
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -5843,7 +5817,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.3
+      scalar: 0.1
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -10437,8 +10411,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.5963868, y: 1.8441889, z: 0.23405823}
-  m_Center: {x: 0.13761759, y: -0.0000000019397, z: 0.11702889}
+  m_Size: {x: 0.38150698, y: 1.8441889, z: 0.23405822}
+  m_Center: {x: 0.030178376, y: -4.7357045e-12, z: 0.11702885}
 --- !u!1 &716019920 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: c0e482f5cf9492547b18b0443c518a1f, type: 3}
@@ -16144,10 +16118,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2625983495686070911, guid: 4da080d1402aa3948b4223008955c434, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 624187182}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4da080d1402aa3948b4223008955c434, type: 3}
 --- !u!1 &1230022185 stripped
 GameObject:
@@ -24112,7 +24083,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 10.81
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -24165,7 +24136,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1.5
+      scalar: 0.96
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -24283,7 +24254,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.3
+      scalar: 0.1
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -30339,6 +30310,63 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 538721660}
   m_SourcePrefab: {fileID: 100100000, guid: 373f1b1daf604ac47a9ed3cfe5ce0b57, type: 3}
+--- !u!1001 &1912579656383388658
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4769686441273635413, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_Name
+      value: Conejudo
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -37.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.270448
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294689588066707695, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bcc0e036227c7cb468ae40d46c2da4fa, type: 3}
 --- !u!1001 &2230669146675748360
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30768,3 +30796,4 @@ SceneRoots:
   - {fileID: 278782658}
   - {fileID: 2230669146675748360}
   - {fileID: 667073919}
+  - {fileID: 1912579656383388658}
