@@ -164,7 +164,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      puerta salida fbx uvs_standardSurface1_MaskMap_0: 6278500416772267844
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

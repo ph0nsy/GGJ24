@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      conejo_low_DefaultMaterial_MaskMap_0: -7272448099164145368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
