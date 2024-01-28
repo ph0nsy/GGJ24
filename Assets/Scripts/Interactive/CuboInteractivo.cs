@@ -12,17 +12,17 @@ public class CuboInteractivo : MonoBehaviour
 
     void Update()
     {
-        // Obtén el vector de dirección del jugador hacia el cubo.
+        // Obtï¿½n el vector de direcciï¿½n del jugador hacia el cubo.
         Vector3 direccionJugadorAlCubo = transform.position - jugador.transform.position;
         direccionJugadorAlCubo.Normalize();
 
-        // Obtén la dirección hacia donde está mirando el jugador.
+        // Obtï¿½n la direcciï¿½n hacia donde estï¿½ mirando el jugador.
         Vector3 direccionMiradaJugador = jugador.transform.forward;
 
         // Calcula el producto punto entre las dos direcciones.
         float productoPunto = Vector3.Dot(direccionJugadorAlCubo, direccionMiradaJugador);
 
-        // Comprueba si el jugador está mirando al cubo y está dentro de la distancia de interacción.
+        // Comprueba si el jugador estï¿½ mirando al cubo y estï¿½ dentro de la distancia de interacciï¿½n.
         if (productoPunto > 0 && Vector3.Distance(transform.position, jugador.transform.position) < distanciaInteraccion)
         {
             texto.SetActive(true);
