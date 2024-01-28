@@ -40,17 +40,18 @@ public class Nota : MonoBehaviour
 
             if (Input.GetKeyDown(KeyCode.E))
             {
+                NotasController controller = transform.parent.GetComponent<NotasController>();
+                
                 if(childCanvas.GetChild(0).gameObject.activeSelf){
                     gameObject.SetActive(false);
+                    controller.sprites.RemoveAt(0);
                 }
 
                 childCanvas.GetChild(1).gameObject.GetComponent<TMP_Text>().text = "";
                 childCanvas.GetChild(1).gameObject.SetActive(false);
 
                 childCanvas.GetChild(0).gameObject.SetActive(true);
-                NotasController controller = transform.parent.GetComponent<NotasController>();
                 childCanvas.GetChild(0).gameObject.GetComponent<Image>().sprite = controller.sprites[0];
-                controller.sprites.RemoveAt(0);
             }
         }
         else
