@@ -190,6 +190,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -812,7 +836,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TechoBolera_standardSurface1_MaskMap_0: 5955423796256248534
+      TechoBolera_standardSurface1_MaskMap_1: 791711635736693867
+      TechoBolera_standardSurface1_MaskMap_10: -87916091521080168
+      TechoBolera_standardSurface1_MaskMap_11: 7576356240134417115
+      TechoBolera_standardSurface1_MaskMap_12: -465093372077221537
+      TechoBolera_standardSurface1_MaskMap_13: 7153164565484060060
+      TechoBolera_standardSurface1_MaskMap_14: 6961754549422567502
+      TechoBolera_standardSurface1_MaskMap_15: 4656270605191249200
+      TechoBolera_standardSurface1_MaskMap_16: -7102111479895892183
+      TechoBolera_standardSurface1_MaskMap_17: -3068986608002213520
+      TechoBolera_standardSurface1_MaskMap_18: -6027442138100312636
+      TechoBolera_standardSurface1_MaskMap_19: -7114135281455604609
+      TechoBolera_standardSurface1_MaskMap_2: -345719326322439535
+      TechoBolera_standardSurface1_MaskMap_20: -1475374562481552748
+      TechoBolera_standardSurface1_MaskMap_21: 3577413982325110120
+      TechoBolera_standardSurface1_MaskMap_22: -7090405642571929022
+      TechoBolera_standardSurface1_MaskMap_23: 6110979109402516518
+      TechoBolera_standardSurface1_MaskMap_24: 5593712320689380177
+      TechoBolera_standardSurface1_MaskMap_25: 1430930931137940378
+      TechoBolera_standardSurface1_MaskMap_26: 5666835411803496330
+      TechoBolera_standardSurface1_MaskMap_27: -6914972110755286208
+      TechoBolera_standardSurface1_MaskMap_28: -5271147083379445969
+      TechoBolera_standardSurface1_MaskMap_3: -8595141508447134656
+      TechoBolera_standardSurface1_MaskMap_4: 3487448280175640501
+      TechoBolera_standardSurface1_MaskMap_5: -4193725240523041397
+      TechoBolera_standardSurface1_MaskMap_6: 7471398177271479787
+      TechoBolera_standardSurface1_MaskMap_7: 239454647045059137
+      TechoBolera_standardSurface1_MaskMap_8: 7046299880575013229
+      TechoBolera_standardSurface1_MaskMap_9: 295105817347640893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
