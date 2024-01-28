@@ -8,7 +8,9 @@ public class if_card : MonoBehaviour
     public GameObject player;
     public GameObject door;
     public GameObject card;
-    public GameObject texto;
+    public GameObject texto_nota;
+    public GameObject texto_personaje;
+
     public float min_dist = 2f;
     // Start is called before the first frame update
     void Start()
@@ -33,6 +35,14 @@ public class if_card : MonoBehaviour
         card_vector = card.transform.position;
         door_vector = door.transform.position;
 
+        if( ((player_vector-card_vector).magnitude < (min_dist-1)) ) {
+            texto_nota.SetActive(true);
+        } 
+
+        if( ((player_vector-card_vector).magnitude > min_dist) ) {
+            texto_nota.SetActive(false);
+        } 
+
         if( ((player_vector-card_vector).magnitude < min_dist) && (Input.GetKeyDown(KeyCode.E)) ) {
             card.SetActive(false);
         } // si (player < min_dist) and (keydown.E) "coge" tarjeta
@@ -42,11 +52,10 @@ public class if_card : MonoBehaviour
         } // si (tarjeta "cogida") and (player < min_dist) and (keydow.E) "abre" puerta
         
         if ((card.activeSelf == true) && ((player_vector-door_vector).magnitude < min_dist) && (Input.GetKeyDown(KeyCode.E))) {
-            texto.SetActive(true);
-            texto.transform.GetComponent<TMP_Text>().text = "Necesito una tarjeta";
+            texto_personaje.SetActive(true);
         }
         if((player_vector-door_vector).magnitude > (min_dist+1)) {    
-            texto.SetActive(false);
+            texto_personaje.SetActive(false);
         }
 
         
