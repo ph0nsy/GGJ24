@@ -35,7 +35,6 @@ public class if_card : MonoBehaviour
         card_vector = card.transform.position;
         door_vector = door.transform.position;
 
-        if( ((player_vector-card_vector).magnitude < (min_dist-1)) ) {
         if( ((player_vector-card_vector).magnitude < (min_dist-1)) && (card.activeSelf == true) ) {
             texto_nota.SetActive(true);
         } 
