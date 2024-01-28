@@ -42,11 +42,10 @@ public class if_card : MonoBehaviour
         } // si (tarjeta "cogida") and (player < min_dist) and (keydow.E) "abre" puerta
         
         if ((card.activeSelf == true) && ((player_vector-door_vector).magnitude < min_dist) && (Input.GetKeyDown(KeyCode.E))) {
-            //Debug.Log("necesito una tarjeta");
             texto.SetActive(true);
             texto.transform.GetComponent<TMP_Text>().text = "Necesito una tarjeta";
         }
-        if((player_vector-door_vector).magnitude > (min_dist+10)) {
+        if((player_vector-door_vector).magnitude > (min_dist+1)) {    
             texto.SetActive(false);
         }
 

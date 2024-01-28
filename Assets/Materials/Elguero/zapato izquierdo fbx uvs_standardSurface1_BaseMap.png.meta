@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      zapato izquierdo fbx uvs_standardSurface1_BaseMap_0: -2863476201798356107
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
