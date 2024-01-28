@@ -14,6 +14,7 @@ public class MainMenuController : MonoBehaviour
     void Start(){
         loadingPanel = this.transform.GetChild(1).gameObject;
         loadingBar = loadingPanel.transform.GetChild(0).GetComponent<Slider>();
+        Cursor.lockState = CursorLockMode.Confined;
     }
 
     public void Play (){

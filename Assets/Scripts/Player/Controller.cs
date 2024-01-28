@@ -31,6 +31,7 @@ public class Controller : MonoBehaviour
     [SerializeField] public GameObject deathOverlay;
     [HideInInspector] float deathTimer;
     [HideInInspector] Image deathImage;
+    [HideInInspector] public bool win = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -69,6 +70,15 @@ public class Controller : MonoBehaviour
             deathImage.color = colorUpdated;
             if(deathImage.color.a >= 1f){
                 deathOverlay.transform.GetChild(0).gameObject.SetActive(true);
+                if(Input.anyKey)
+                    SceneManager.LoadScene(0);
+            }
+        } else if(win){
+            var colorUpdated = deathImage.color;
+            colorUpdated.a += 0.5f*Time.deltaTime;
+            deathImage.color = colorUpdated;
+            if(deathImage.color.a >= 1f){
+                deathOverlay.transform.GetChild(1).gameObject.SetActive(true);
                 if(Input.anyKey)
                     SceneManager.LoadScene(0);
             }
@@ -115,6 +125,7 @@ public class Controller : MonoBehaviour
                     sprintDuration -= Time.deltaTime;
             }
         }
+        
     }
 
     public void Hurt(double damagePercent, float knockbackForce){
@@ -160,6 +171,11 @@ public class Controller : MonoBehaviour
 
     [ContextMenu("HitTest")]
     void HitTest(){
-        this.Hurt(0.1, 2f);
+        this.Hurt(0.6, 2f);
+    }
+
+    [ContextMenu("WinTest")]
+    void WinTest(){
+        this.win = true;
     }
 }

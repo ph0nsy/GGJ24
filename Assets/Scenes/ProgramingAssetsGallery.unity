@@ -1238,6 +1238,22 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1058666190}
+    - target: {fileID: 4846079225986642855, guid: 2dbd450f560cd0b48abc40529fd7f148, type: 3}
+      propertyPath: 'sprites.Array.data[1]'
+      value: 
+      objectReference: {fileID: -1813517504527734233, guid: 88b3e73fd4903954cb8763bb087581ea, type: 3}
+    - target: {fileID: 4846079225986642855, guid: 2dbd450f560cd0b48abc40529fd7f148, type: 3}
+      propertyPath: 'sprites.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1941923695325984336, guid: bf401b979a712704692f2b655e66731b, type: 3}
+    - target: {fileID: 4846079225986642855, guid: 2dbd450f560cd0b48abc40529fd7f148, type: 3}
+      propertyPath: 'sprites.Array.data[3]'
+      value: 
+      objectReference: {fileID: -1800157299443772428, guid: 2320ca6f94f9a5e43a04f31a3c1ba2a6, type: 3}
+    - target: {fileID: 4846079225986642855, guid: 2dbd450f560cd0b48abc40529fd7f148, type: 3}
+      propertyPath: 'sprites.Array.data[4]'
+      value: 
+      objectReference: {fileID: 8801717905200099025, guid: 11d06ad582841e04a80f47a15f5042e2, type: 3}
     - target: {fileID: 6353009595197456840, guid: 2dbd450f560cd0b48abc40529fd7f148, type: 3}
       propertyPath: m_LocalPosition.x
       value: -13.77
