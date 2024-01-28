@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ArcadeUvs_Arcade1_BaseMap_0: -709498473614510148
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

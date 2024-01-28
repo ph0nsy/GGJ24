@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AZUL-MARINO-380_0: -1350788727220879692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

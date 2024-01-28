@@ -32,7 +32,7 @@ public class Nota : MonoBehaviour
 
         // Calcula el producto punto entre las dos direcciones.
         float productoPunto = Vector3.Dot(direccionJugadorNota, direccionMiradaJugador);
-        Debug.Log((transform.position - player.transform.position).magnitude);
+        //Debug.Log((transform.position - player.transform.position).magnitude);
 
         // Comprueba si el jugador est� mirando al cubo y est� dentro de la distancia de interacci�n.
         if (productoPunto > 0 && Vector3.Distance(transform.position, player.transform.position) < distanciaInteraccion)
