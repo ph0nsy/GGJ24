@@ -19,7 +19,6 @@ public class Controller : MonoBehaviour
     [HideInInspector] public bool firstHitDone = false, canBeHurt = true;
     [HideInInspector] public float invulTimer = 0f;
     [Range(1, 100)] public float mouseSensibility = 10f;
-    [Range(0f, 90f)] public float yRotationLimit = 88f;
     [Range(1, 50)] public float movementSpeed = 10f;
     [Range(1, 20)] public float jumpHeight = 10f;
     [Range(0, -50)] public float gravityForce = -10f;
@@ -71,7 +70,7 @@ public class Controller : MonoBehaviour
             if(deathImage.color.a >= 1f){
                 deathOverlay.transform.GetChild(0).gameObject.SetActive(true);
                 if(Input.anyKey)
-                    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+                    SceneManager.LoadScene(0);
             }
         } else {
             x = Input.GetAxis("Horizontal");
@@ -142,6 +141,7 @@ public class Controller : MonoBehaviour
             updatedColor.a = 0f;
          
         image.color = updatedColor;
+        Debug.Log("Current HP: " + this.currentHP);
     }
 
     [ContextMenu("Test")]

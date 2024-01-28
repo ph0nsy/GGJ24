@@ -2215,10 +2215,26 @@ PrefabInstance:
       propertyPath: jugador
       value: 
       objectReference: {fileID: 1903001915}
+    - target: {fileID: 5359813686834621488, guid: cb84e1e99b31f92489ef6c02c10a03f5, type: 3}
+      propertyPath: m_Name
+      value: Facing (Remove)
+      objectReference: {fileID: 0}
     - target: {fileID: 5616114347780639184, guid: cb84e1e99b31f92489ef6c02c10a03f5, type: 3}
       propertyPath: jugador
       value: 
       objectReference: {fileID: 1903001916}
+    - target: {fileID: 5616114347780639184, guid: cb84e1e99b31f92489ef6c02c10a03f5, type: 3}
+      propertyPath: rot_left
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5616114347780639184, guid: cb84e1e99b31f92489ef6c02c10a03f5, type: 3}
+      propertyPath: rot_right
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5616114347780639184, guid: cb84e1e99b31f92489ef6c02c10a03f5, type: 3}
+      propertyPath: rot_speed
+      value: 0.8
+      objectReference: {fileID: 0}
     - target: {fileID: 8159536924640928921, guid: cb84e1e99b31f92489ef6c02c10a03f5, type: 3}
       propertyPath: jugador
       value: 
