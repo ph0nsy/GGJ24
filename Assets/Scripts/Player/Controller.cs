@@ -117,7 +117,7 @@ public class Controller : MonoBehaviour
         }
     }
 
-    public void Hurt(double damagePercent){
+    public void Hurt(double damagePercent, float knockbackForce){
         if(canBeHurt){
             if(!firstHitDone){
                 sprintDuration -= Time.deltaTime;
@@ -125,6 +125,9 @@ public class Controller : MonoBehaviour
             }
             this.currentHP -= (int) (maxHealth*damagePercent);
             canBeHurt = false;
+            if(knockbackForce > 0f){
+                controller.Move(transform.forward * -knockbackForce);
+            }
         }   
         // Update Hurt Overlay
         Image image = hurtOverlay.GetComponent<Image>();
@@ -157,6 +160,6 @@ public class Controller : MonoBehaviour
 
     [ContextMenu("HitTest")]
     void HitTest(){
-        this.Hurt(1);
+        this.Hurt(0.1, 2f);
     }
 }

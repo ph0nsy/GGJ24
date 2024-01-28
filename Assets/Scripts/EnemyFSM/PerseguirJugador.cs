@@ -21,6 +21,7 @@ public class PerseguirJugador : MonoBehaviour
     float obj_left, obj_right = new float();
     Vector3 add_left; // lo que hay que sumarles
     Vector3 add_right;
+    [Range(0f,20f)]public float knockbackForce = 0f;
 
     void Start()
     {
@@ -62,12 +63,10 @@ public class PerseguirJugador : MonoBehaviour
                 agent.SetDestination(transform.position);
                 SetUpRotation();
                 if(end_rot_left == false) { //(Quaternion.Angle(transform.rotation, obj_left) > 0)
-                    Debug.Log("doing first rot, angle: " + transform.eulerAngles.y.ToString() + ", obj_left: " + obj_left);
 
                     transform.rotation *= Quaternion.AngleAxis(rot_speed, Vector3.up); 
                     if (transform.eulerAngles.y > obj_left) { end_rot_left = true; }
                 } else if(end_rot_right == false) {
-                    Debug.Log("doing second rot, angle: " + transform.eulerAngles.y.ToString() + ", obj_right: " + obj_right);
 
                     transform.rotation *= Quaternion.AngleAxis((rot_speed * -1), Vector3.up);
                     if (transform.eulerAngles.y < obj_right) { end_rot_right = true; }
@@ -118,7 +117,7 @@ public class PerseguirJugador : MonoBehaviour
                 
                 //Check when there is a new collider coming into contact with the box
                 if(hitColliders.Length > 0){
-                    jugador.GetComponent<Controller>().Hurt(damagePercentage);
+                    jugador.GetComponent<Controller>().Hurt(damagePercentage, knockbackForce);
                     hasHurt = true;
                 }
             }
