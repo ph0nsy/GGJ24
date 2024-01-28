@@ -164,7 +164,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      trampilla fbx uvs_standardSurface1_MaskMap_0: 133517819900268888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

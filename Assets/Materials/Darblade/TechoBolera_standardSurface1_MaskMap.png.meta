@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: 9dc4a29e4154ce14bb133737bfd86645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5955423796256248534
+    second: TechoBolera_standardSurface1_MaskMap_0
+  - first:
+      213: 791711635736693867
+    second: TechoBolera_standardSurface1_MaskMap_1
+  - first:
+      213: -345719326322439535
+    second: TechoBolera_standardSurface1_MaskMap_2
+  - first:
+      213: -8595141508447134656
+    second: TechoBolera_standardSurface1_MaskMap_3
+  - first:
+      213: 3487448280175640501
+    second: TechoBolera_standardSurface1_MaskMap_4
+  - first:
+      213: -4193725240523041397
+    second: TechoBolera_standardSurface1_MaskMap_5
+  - first:
+      213: 7471398177271479787
+    second: TechoBolera_standardSurface1_MaskMap_6
+  - first:
+      213: 239454647045059137
+    second: TechoBolera_standardSurface1_MaskMap_7
+  - first:
+      213: 7046299880575013229
+    second: TechoBolera_standardSurface1_MaskMap_8
+  - first:
+      213: 295105817347640893
+    second: TechoBolera_standardSurface1_MaskMap_9
+  - first:
+      213: -87916091521080168
+    second: TechoBolera_standardSurface1_MaskMap_10
+  - first:
+      213: 7576356240134417115
+    second: TechoBolera_standardSurface1_MaskMap_11
+  - first:
+      213: -465093372077221537
+    second: TechoBolera_standardSurface1_MaskMap_12
+  - first:
+      213: 7153164565484060060
+    second: TechoBolera_standardSurface1_MaskMap_13
+  - first:
+      213: 6961754549422567502
+    second: TechoBolera_standardSurface1_MaskMap_14
+  - first:
+      213: 4656270605191249200
+    second: TechoBolera_standardSurface1_MaskMap_15
+  - first:
+      213: -7102111479895892183
+    second: TechoBolera_standardSurface1_MaskMap_16
+  - first:
+      213: -3068986608002213520
+    second: TechoBolera_standardSurface1_MaskMap_17
+  - first:
+      213: -6027442138100312636
+    second: TechoBolera_standardSurface1_MaskMap_18
+  - first:
+      213: -7114135281455604609
+    second: TechoBolera_standardSurface1_MaskMap_19
+  - first:
+      213: -1475374562481552748
+    second: TechoBolera_standardSurface1_MaskMap_20
+  - first:
+      213: 3577413982325110120
+    second: TechoBolera_standardSurface1_MaskMap_21
+  - first:
+      213: -7090405642571929022
+    second: TechoBolera_standardSurface1_MaskMap_22
+  - first:
+      213: 6110979109402516518
+    second: TechoBolera_standardSurface1_MaskMap_23
+  - first:
+      213: 5593712320689380177
+    second: TechoBolera_standardSurface1_MaskMap_24
+  - first:
+      213: 1430930931137940378
+    second: TechoBolera_standardSurface1_MaskMap_25
+  - first:
+      213: 5666835411803496330
+    second: TechoBolera_standardSurface1_MaskMap_26
+  - first:
+      213: -6914972110755286208
+    second: TechoBolera_standardSurface1_MaskMap_27
+  - first:
+      213: -5271147083379445969
+    second: TechoBolera_standardSurface1_MaskMap_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 332
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d213c6b36ae5a250800000000000000
+      internalID: 5955423796256248534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 601
+        width: 130
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c01acb989bcfa00800000000000000
+      internalID: 791711635736693867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 747
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a409aba12c33bf0800000000000000
+      internalID: -345719326322439535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c1bca465ce7b880800000000000000
+      internalID: -8595141508447134656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 601
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf7a68cbb7e56030800000000000000
+      internalID: 3487448280175640501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 601
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85d801fc15ecc5c0800000000000000
+      internalID: -4193725240523041397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 601
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed74cb9e0dbfa760800000000000000
+      internalID: 7471398177271479787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142ffe89bb6b25300800000000000000
+      internalID: 239454647045059137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d611d82986c79c160800000000000000
+      internalID: 7046299880575013229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e48266d2d681400800000000000000
+      internalID: 295105817347640893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89468d2d7c8a7cef0800000000000000
+      internalID: -87916091521080168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaa601fbdf942960800000000000000
+      internalID: 7576356240134417115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d2f1da08ab89f0800000000000000
+      internalID: -465093372077221537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9db691f545254360800000000000000
+      internalID: 7153164565484060060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40bac3b0ee1d9060800000000000000
+      internalID: 6961754549422567502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d748802756e9040800000000000000
+      internalID: 4656270605191249200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd495dc3b307d90800000000000000
+      internalID: -7102111479895892183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d891b0f4c865d0800000000000000
+      internalID: -3068986608002213520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c55f466f493a5ca0800000000000000
+      internalID: -6027442138100312636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cd3c067a3854d90800000000000000
+      internalID: -7114135281455604609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c3acf6aa668be0800000000000000
+      internalID: -1475374562481552748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865f00f101785a130800000000000000
+      internalID: 3577413982325110120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a231972a1d99d90800000000000000
+      internalID: -7090405642571929022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c15c56f1f8ec450800000000000000
+      internalID: 6110979109402516518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b9a6a08bbd0ad40800000000000000
+      internalID: 5593712320689380177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b8898b910bbd310800000000000000
+      internalID: 1430930931137940378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd62968c4a4ae40800000000000000
+      internalID: 5666835411803496330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043b2ba90851900a0800000000000000
+      internalID: -6914972110755286208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TechoBolera_standardSurface1_MaskMap_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fe458c7af19d6b0800000000000000
+      internalID: -5271147083379445969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

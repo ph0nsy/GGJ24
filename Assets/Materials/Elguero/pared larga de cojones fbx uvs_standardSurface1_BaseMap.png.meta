@@ -164,7 +164,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pared larga de cojones fbx uvs_standardSurface1_BaseMap_0: -8064525610452606625
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
