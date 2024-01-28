@@ -36,6 +36,7 @@ public class if_card : MonoBehaviour
         door_vector = door.transform.position;
 
         if( ((player_vector-card_vector).magnitude < (min_dist-1)) ) {
+        if( ((player_vector-card_vector).magnitude < (min_dist-1)) && (card.activeSelf == true) ) {
             texto_nota.SetActive(true);
         } 
 
@@ -45,6 +46,7 @@ public class if_card : MonoBehaviour
 
         if( ((player_vector-card_vector).magnitude < min_dist) && (Input.GetKeyDown(KeyCode.E)) ) {
             card.SetActive(false);
+            texto_nota.SetActive(false);
         } // si (player < min_dist) and (keydown.E) "coge" tarjeta
         
         if ((card.activeSelf == false) && ((player_vector-door_vector).magnitude < min_dist) && (Input.GetKeyDown(KeyCode.E))) {
