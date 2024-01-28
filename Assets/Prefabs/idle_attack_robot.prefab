@@ -311,6 +311,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8782404219245738838, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -351,14 +355,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7557110312775361121, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6097085250660835393, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -666985854777507172, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fecb62d5be3f06541895ec6fe1041bff, type: 2}
     - target: {fileID: 919132149155446097, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
       propertyPath: m_Name
       value: idle_attack_robot
+      objectReference: {fileID: 0}
+    - target: {fileID: 1426922031580656738, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5866666021909216657, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 5c6d327a37a4048488e662123832c403, type: 2}
+    - target: {fileID: 8293510266498974470, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8482637178489366800, guid: dc90fbfaf18b47a43a961201680aff92, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
